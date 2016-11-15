@@ -23,7 +23,7 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-2.png">
 </p> 
-
+<img src="https://github.com/Atcharee248/LAB-12/blob/master/Lab12_1.JPG?raw=true">
 
 ### การ Zoom in  
 คือการกำหนดให้ Rectangle ปลายทาง โตกว่า Rectangle ของภาพ ในที่นี้จะเลือกภาพมาแสดง
@@ -31,17 +31,17 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-3.png">
 </p> 
-
+<img src="https://github.com/Atcharee248/LAB-12/blob/master/Lab12_2JPG?raw=true">
 ### การพลิกและหมุนภาพ
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-4.png">
 </p> 
-
+<img src="https://github.com/Atcharee248/LAB-12/blob/master/Lab12_3.JPG?raw=true">
 
 ## การเขียนข้อความลงในภาพ
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-5.png">
-</p> 
+</p> <img src="https://github.com/Atcharee248/LAB-12/blob/master/Lab12_4.JPG?raw=true">
 
 
 ##แบบฝึกหัด
