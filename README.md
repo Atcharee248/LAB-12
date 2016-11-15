@@ -31,7 +31,7 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-3.png">
 </p> 
-<img src="https://github.com/Atcharee248/LAB-12/blob/master/Lab12_2JPG?raw=true">
+<img src="https://github.com/Atcharee248/LAB-12/blob/master/Lab12_2.JPG?raw=true">
 ### การพลิกและหมุนภาพ
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-4.png">
@@ -48,3 +48,5 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 ให้วาดตัวการ์ตูน Doraemon โดยใช้คำสั่งต่างๆ ทางด้านกราฟฟิกส์ พร้อมทั้งใส่ชื่อ นามสกุล และรหัสนักศึกษาของตนเองลงไปด้วย (ห้ามใช้วิธีการใส่รูปภาพ)
 
 **[ตัวอย่างงานวาดภาพ Doraemon ของรุ่นพี่](https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/Doraemon.md)**
+
+<img src="https://github.com/Atcharee248/LAB-12/blob/master/Lab12_Doraemon.JPG?raw=true">
